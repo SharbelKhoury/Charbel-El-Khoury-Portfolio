@@ -3698,7 +3698,7 @@ No matching component was found for:
               w-[125px] h-[46px] rounded-[10px] bg-jetLight 
               sm:mt-[22px] mt-[16px] hover:bg-battleGray 
               hover:text-eerieBlack transition duration-[0.2s] 
-              ease-in-out`, onClick: () => window.open("resume link", "_blank"), onMouseOver: () => { document.querySelector(".download-btn").setAttribute("src", Dj) }, onMouseOut: () => { document.querySelector(".download-btn").setAttribute("src", Mb) }, children: ["MY RESUME", te.jsx("img", {
+              ease-in-out`, onClick: () => window.open("resume link.pdf", "_blank"), onMouseOver: () => { document.querySelector(".download-btn").setAttribute("src", Dj) }, onMouseOut: () => { document.querySelector(".download-btn").setAttribute("src", Mb) }, children: ["MY RESUME", te.jsx("img", {
 						src: Mb, alt: "download", className: `download-btn sm:w-[26px] sm:h-[26px] 
                 w-[23px] h-[23px] object-contain`})]
 				})
